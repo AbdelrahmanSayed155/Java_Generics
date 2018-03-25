@@ -1,0 +1,9 @@
+generic 
+don't need for typeCasting
+
+object
+ you must cast to your object
+ 
+ --using it by 
+ class or interface<Type>
+
